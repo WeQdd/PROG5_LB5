@@ -19,3 +19,6 @@
 
 ![image](https://github.com/user-attachments/assets/0e7d112a-3f82-4a91-ab9d-3792302a6951)
 
+Тесты:
+
+![image](https://github.com/user-attachments/assets/2e2c4ee0-9dd4-491b-9ca6-56fa6b91dfdd)
