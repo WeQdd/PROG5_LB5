@@ -14,8 +14,8 @@ class TestCurrenciesLst(unittest.TestCase):
     def test_singleton(self):
         currencies_lst1 = CurrenciesLst()
         currencies_lst2 = CurrenciesLst()
-        self.assertIsNotNone(currencies_lst1)
-        self.assertIsNotNone(currencies_lst2)
+        self.assertIs(currencies_lst1, currencies_lst2)
+        
 
     def test_valid_ids(self):
         self.currencies_lst.set_currencies_ids_lst(['R01035', 'R01335', 'R01700J'])
